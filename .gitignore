@@ -1,0 +1,52 @@
+# Node.js / Angular
+node_modules/
+dist/
+out-tsc/
+.angular/
+frontend/node_modules/
+frontend/dist/
+
+# .NET / ASP.NET Core
+bin/
+obj/
+backend/bin/
+backend/obj/
+backend/*.db
+
+# Docker
+**/pgdata/
+**/docker-compose.override.yml
+**/docker-compose.yml.backup
+
+# VS Code / IDE
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# OS Generated
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+npm-debug.log*
+
+# Environment Files
+.env
+.env.local
+frontend/.env
+backend/.env
+
+# Build Output
+build/
+tmp/
+temp/
+
+# Git Ignore backup files
+*.bak
+*.tmp
+*.swp

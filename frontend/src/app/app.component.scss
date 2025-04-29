@@ -1,0 +1,23 @@
+.container {
+    padding: 20px;
+  }
+  
+  .movie-form {
+    margin-bottom: 30px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    max-width: 400px;
+  }
+  
+  .movie-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .movie-table th, .movie-table td {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: center;
+  }
+  
