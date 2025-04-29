@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Jd2ghygzwAo=",
+  "success": true,
+  "projectFilePath": "/Users/liming/Desktop/inclass-01270/tt4-final-exam-1270/backend/backend.csproj",
+  "expectedPackageFiles": [
+    "/Users/liming/.nuget/packages/microsoft.aspnetcore.openapi/9.0.4/microsoft.aspnetcore.openapi.9.0.4.nupkg.sha512",
+    "/Users/liming/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
